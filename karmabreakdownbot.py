@@ -1,7 +1,7 @@
 import praw
 
 user_agent = ("Karma Breakdown v1.0 by /u/teejas"
-                "https://github.com/teejas/reddit-bots/")
+            "https://github.com/teejas/reddit-bots/")
                 
 r = praw.Reddit(user_agent = user_agent)
 user_name = "_Daimon_"
